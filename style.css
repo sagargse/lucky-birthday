@@ -1,0 +1,64 @@
+.container{
+    text-align: center;
+}
+.heading{
+    background-color: #F59E0B;
+    color: white;
+    border-style: dashed;
+    border-radius: 2rem;
+    padding: 1rem;
+    width: 80%;
+    margin: auto;
+}
+.input-label{
+    font-size: 30px;
+    display: block;
+    font-weight: 600;
+    padding-top: 1rem;
+}
+#d-o-b{
+    font-size: 20px;
+    font-weight: bold;
+    outline: #F59E0B;
+    border: 2px solid #F59E0B;
+    border-radius: 0.5rem;
+    margin: 1rem;
+    padding: 0.5rem 2rem;
+    max-width: 250px;
+}
+#lucky{
+    font-size: 20px;
+    font-weight: bold;
+    outline: #F59E0B;
+    border: 2px solid #F59E0B;
+    border-radius: 0.5rem;
+    margin: 1rem;
+    padding: 0.5rem 2rem;
+    max-width: 250px;
+}
+#check-button{
+    display: block;
+    font-size: 25px;
+    background-color: #F59E0B;
+    color: white;
+    padding: 0.5rem;
+    margin: 1rem auto 1rem;
+    border-radius: 1rem;
+    border:none;
+    cursor: pointer;
+    border-style: outset;
+}
+#check-button:hover{
+    color: black;
+}
+#output{
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    outline: #F59E0B;
+    border-radius: 0.5rem;
+    border: 2px solid #F59E0B;
+    margin: auto;
+    padding: 1rem 2rem;
+    max-width: 250px;
+}
